@@ -1,0 +1,12 @@
+# notMNIST datasets
+notMNIST_small
+notMNIST_large
+
+# tar files
+*.tar.gz
+
+# IPython Notebook checkpoints
+.ipynb_checkpoints
+
+# Pickle files
+*.pickle
